@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-dhruv0069/dhruv0069 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+dhrub0/dhrub0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
